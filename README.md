@@ -111,8 +111,17 @@ The parties agree that this Agreement may be signed in counterparts, each of whi
 
 ## 3. Termination
 
-### 3.1. 
+### 3.1. Termination by Disclosing Party on Notice
 
+The Disclosing Party may terminate the Agreement by providing two (2) weeks prior notice in writing to the Receiving Party.
+
+### 3.2. Termination by Receiving Party on Notice
+
+The Receiving Party may terminate the Agreement by providing four (4) weeks prior notice in writing to the Disclosing Party. Upon receipt of such notice of resignation the Disclosing Party may, in its sole discretion, waive in writing all or part of the notice period.
+
+### 3.3. Termination Date
+
+The Receiving Party’s effective date of termination (the “Termination Date”) will be the date of notice of termination or notice of resignation, as the case may be.
 
 <br />
 
